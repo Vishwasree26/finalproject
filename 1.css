@@ -1,0 +1,30 @@
+body{
+	margin:0px;
+}
+.two,.four{
+	background-color: black;
+	background-repeat;
+	height: 200px;
+	width: 100%;
+}
+
+.toll{
+	width:100%;
+	background-size: cover;
+	height: 650px;
+	background-repeat: no-repeat;
+	}
+
+.boll{	
+height: 650px;
+width: 100%;
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+.holl{
+height: 650px;
+width: 100%;
+background-size: cover;
+background-repeat: no-repeat;
+}
